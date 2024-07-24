@@ -1,0 +1,5 @@
+#TYPE System.Management.Automation.PSCustomObject,,,,,,,
+name,subscriptionId,kind,location,skuName,capacity,Type,DatePulled
+,,,,,,,
+,,,,,,,
+,,,,,,,
